@@ -15,7 +15,7 @@ Isso permite eliminar picos anômalos que poderiam distorcer o resultado, propor
 ### Imagens do Projeto
 
 - Foto do sensor:
-  ![Sensor de Combustível](sensor.jpg | width=400)
+  ![Sensor de Combustível](sensor.jpg)
 
 - Gráfico obtido no Serial Plot após a aplicação do filtro:
   ![Serial Plot](serialplot.png)
