@@ -15,7 +15,7 @@ Isso permite eliminar picos anômalos que poderiam distorcer o resultado, propor
 ### Imagens do Projeto
 
 - Foto do sensor:
-  ![Sensor de Combustível](arduino/sensores/sensor do tanque/sensor.jpg)
+  ![Sensor de Combustível](https://github.com/gustavogpg/Panthera/blob/4bcb2143d8bab2915c403a65548cef40ee143f1f/arduino/sensores/sensor%20do%20tanque/sensor.jpg)
 
 - Gráfico obtido no Serial Plot após a aplicação do filtro:
   ![Serial Plot](serialplot.png)
