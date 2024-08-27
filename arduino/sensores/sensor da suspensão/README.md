@@ -26,7 +26,7 @@ O sensor de suspensão é altamente estável e preciso, e como tal, não foi nec
   <img src="serialplot.jpg" alt=""Foto do sensor funcionando no SerialPlot" width="600" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
-## Código-Fonte
+## Código-Fonte - potenciometro_linear_suspensao.ino
 
 ```cpp
 //------------------------------------------------------------
