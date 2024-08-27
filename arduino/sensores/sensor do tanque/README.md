@@ -16,6 +16,10 @@ Isso permite eliminar picos anômalos que poderiam distorcer o resultado, propor
 
 - Foto do sensor:
 
+<p align="center">
+  <img src="sensor.jpg" alt="Sensor de Combustível" width="600" style="display: block; margin-left: auto; margin-right: auto;"/>
+</p>
+
 <div style="text-align: center;">
     <img src="sensor.jpg" alt="Sensor de Combustível" width="600" style="display: block; margin-left: auto; margin-right: auto;"/>
 </div>
