@@ -20,17 +20,13 @@ Isso permite eliminar picos anômalos que poderiam distorcer o resultado, propor
   <img src="sensor.jpg" alt="Sensor de Combustível" width="600" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
-<div style="text-align: center;">
-    <img src="sensor.jpg" alt="Sensor de Combustível" width="600" style="display: block; margin-left: auto; margin-right: auto;"/>
-</div>
-
 <br>
 
 - Gráfico obtido no Serial Plot após a aplicação do filtro:
 
-<div style="text-align: center;">
-    <img src="serialplot.png" alt="Foto do sensor funcionando no Serial Plot" width="600" style="display: block; margin-left: auto; margin-right: auto;"/>
-</div>
+<p align="center">
+  <img src="serialplot.png" alt="Foto do sensor funcionando no Serial Plot" width="600" style="display: block; margin-left: auto; margin-right: auto;"/>
+</p>
 
 ## Código-Fonte
 
