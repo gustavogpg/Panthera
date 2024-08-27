@@ -17,8 +17,9 @@ Isso permite eliminar picos anômalos que poderiam distorcer o resultado, propor
 - Foto do sensor:
 
 <div style="text-align: center;">
-    <img src="sensor.jpg" alt="Foto do Sensor de Combustível" width="600"/>
+    <img src="sensor.jpg" alt="Sensor de Combustível" width="600" style="display: block; margin-left: auto; margin-right: auto;"/>
 </div>
+
 
 
 - Gráfico obtido no Serial Plot após a aplicação do filtro:
