@@ -13,10 +13,18 @@ O sensor de suspensão é altamente estável e preciso, e como tal, não foi nec
 ### Imagens do Projeto
 
 - Foto do sensor de suspensão (ainda falta tirar a foto do sensor):
-  
+
+<p align="center">
+  <img src="" alt="Sensor da suspensão" width="600" style="display: block; margin-left: auto; margin-right: auto;"/>
+</p>
+
+<br>
 
 - Gráfico obtido no Serial Plot:
-  ![Serial Plot](./serial_plot_suspensao.jpg)
+
+<p align="center">
+  <img src="senrial.jpg" alt=""Foto do sensor funcionando no SerialPlot" width="600" style="display: block; margin-left: auto; margin-right: auto;"/>
+</p>
 
 ## Código-Fonte
 
